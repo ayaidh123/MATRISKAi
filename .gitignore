@@ -64,3 +64,4 @@ docs/_build/
 
 # 6. Ignore temporary files
 secret-replace.txt
+docs/
